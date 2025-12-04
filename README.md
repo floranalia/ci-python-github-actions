@@ -1,3 +1,4 @@
+
 # CI/CD con GitHub Actions (Python)
 
 Este repositorio demuestra un pipeline básico de CI/CD usando GitHub Actions.
@@ -15,4 +16,4 @@ El workflow se ejecuta automáticamente en cada:
 - `push` a `main`
 - `pull_request` hacia `main`
 
-Perfecto para demostrar habilidades DevOps/automatización.
+
